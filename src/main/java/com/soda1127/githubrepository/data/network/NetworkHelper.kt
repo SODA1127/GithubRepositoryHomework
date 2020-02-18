@@ -32,7 +32,7 @@ object NetworkHelper {
             val request: Request = chain.request()
             val builder: Request.Builder = request.newBuilder().method(request.method(), request.body())
             builder.addHeader("User-Agent", "request")
-            builder.addHeader("Authorization", "token cb2d34b815fbc50c78a0b193f4c8e12d8f3198b9")
+            builder.addHeader("Authorization", "token 5dd0896bfd857551ee9e7a1e57ef344c0da890e3")
             var response: okhttp3.Response? = null
             try {
                 response =
