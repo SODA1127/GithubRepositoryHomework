@@ -4,7 +4,7 @@ import android.view.View
 import com.soda1127.githubrepository.model.Data
 
 /**
- * Created by leekijung on 2020. 1. 28..
+ * Created by leekijung on 2020. 2. 18..
  */
 
 class EmptyViewHolder(itemView: View) : DataViewHolder(itemView) {

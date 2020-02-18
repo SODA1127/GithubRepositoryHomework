@@ -4,7 +4,7 @@ import androidx.annotation.CheckResult
 import com.trello.rxlifecycle2.LifecycleTransformer
 
 /**
- * Created by leekijung on 2020. 1. 28..
+ * Created by leekijung on 2020. 2. 18..
  */
 
 interface LayoutLifecycleProvider {

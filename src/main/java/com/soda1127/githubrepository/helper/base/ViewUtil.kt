@@ -10,7 +10,7 @@ import android.widget.EditText
 import com.soda1127.githubrepository.GithubRepositoryApplication
 
 /**
- * Created by leekijung on 2020. 1. 28..
+ * Created by leekijung on 2020. 2. 18..
  */
 
 object ViewUtil {

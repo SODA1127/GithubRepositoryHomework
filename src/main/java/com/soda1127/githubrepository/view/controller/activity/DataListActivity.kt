@@ -11,7 +11,7 @@ import com.soda1127.githubrepository.viewmodel.DataListViewModel
 import com.soda1127.githubrepository.R
 
 /**
- * Created by leekijung on 2020. 1. 28..
+ * Created by leekijung on 2020. 2. 18..
  */
 
 abstract class DataListActivity : BaseActivity() {

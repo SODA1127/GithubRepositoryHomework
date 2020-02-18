@@ -10,7 +10,7 @@ import com.soda1127.githubrepository.data.binder.UserBinder
 import com.soda1127.githubrepository.model.User
 
 /**
- * Created by leekijung on 2020. 1. 28..
+ * Created by leekijung on 2020. 2. 18..
  */
 
 class DataBindHelper {

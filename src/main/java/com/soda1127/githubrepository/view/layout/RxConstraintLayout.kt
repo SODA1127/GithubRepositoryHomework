@@ -8,7 +8,7 @@ import com.trello.rxlifecycle2.RxLifecycle
 import io.reactivex.subjects.BehaviorSubject
 
 /**
- * Created by leekijung on 2020. 1. 28..
+ * Created by leekijung on 2020. 2. 18..
  */
 
 class RxConstraintLayout

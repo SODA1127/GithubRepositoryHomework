@@ -1,7 +1,7 @@
 package com.soda1127.githubrepository.basic
 
 /**
- * Created by leekijung on 2020. 1. 28..
+ * Created by leekijung on 2020. 2. 18..
  */
 
 enum class Type constructor(val type: String) {

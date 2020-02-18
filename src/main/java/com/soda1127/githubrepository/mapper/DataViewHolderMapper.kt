@@ -9,7 +9,7 @@ import com.soda1127.githubrepository.R
 import com.soda1127.githubrepository.view.adapter.viewholder.UserViewHolder
 
 /**
- * Created by leekijung on 2020. 1. 28..
+ * Created by leekijung on 2020. 2. 18..
  */
 
 object DataViewHolderMapper {

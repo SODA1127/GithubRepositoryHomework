@@ -5,7 +5,7 @@ import androidx.recyclerview.widget.RecyclerView
 import com.soda1127.githubrepository.model.Data
 
 /**
- * Created by leekijung on 2020. 1. 28..
+ * Created by leekijung on 2020. 2. 18..
  */
 
 abstract class DataViewHolder(itemView: View) : RecyclerView.ViewHolder(itemView) {

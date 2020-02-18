@@ -8,7 +8,7 @@ import io.reactivex.disposables.Disposable
 import io.reactivex.subjects.PublishSubject
 
 /**
- * Created by leekijung on 2020. 1. 28..
+ * Created by leekijung on 2020. 2. 18..
  */
 
 class Variable<T>
