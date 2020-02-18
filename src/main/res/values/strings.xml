@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AndroidAssignment</string>
+
+    <string name="empty" />
+
+    <string name="terminate_app_with_click_twice">뒤로가기 버튼을 한번 더 누르면 종료합니다</string>
+
+    <string name="result_empty">결과가 존재하지 않습니다.</string>
+
+    <string name="network_disconnected">"네트워크가 끊겼습니다. 잠시만 기다려주세요."</string>
+</resources>
